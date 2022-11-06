@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **tsv19su/tsv19su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +10,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+2008-й год
+
+![____000](https://user-images.githubusercontent.com/37275122/200167546-e5419f9f-f0bb-4b4b-b42c-01096e4a7461.jpg)
+
+![____0001](https://user-images.githubusercontent.com/37275122/200167559-2385b017-a504-45a0-b141-0847d7c5e7d6.jpg)
+
+![____011 (2)](https://user-images.githubusercontent.com/37275122/200167575-d8b6771d-55a7-4f7e-b57c-2056f381ca54.jpg)
