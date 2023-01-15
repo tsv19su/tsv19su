@@ -7,6 +7,8 @@
 - 🤔 Требуется консультация по XSLT и XProc ... -> см. https://www.w3.org/TR/xproc/#dt-Namespaces-in-XML 
 - 💬 Спросите меня о моих успехах ...
 - 📫 Связаться со мной можно на этой странице через обсуждение на репозиториях ...
+- Проспонсировать :sparkling_heart: СберБанк :credit_card: 4276 1300 1635 5558
+
 <!--
 **tsv19su/tsv19su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
